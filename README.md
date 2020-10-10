@@ -1,4 +1,4 @@
-# Proyecto E-Commerce
+# Proyecto Movie Searcher
 Esto es una Aplicacion Web Sencilla para buscar peliculas (Informacion)🙂😎.
 
 Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app) 😎😎.
